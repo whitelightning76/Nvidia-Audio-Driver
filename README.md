@@ -17,4 +17,4 @@ The driver should be installed and working now.  you can check in the sound prop
 in the Advanced tab you are able to select Dolby digital also , instead of 24bit 48000hz for instance.
 
 
-Optional - Install the Dolby Digital V4 app to have even more control.
+Optional - Install the Dolby Digital V4 app to have even more control. https://drive.google.com/file/d/1Sc1bHt-TE1ApMscVFXhIvFDZ-JE5DhZN/view?usp=sharing
